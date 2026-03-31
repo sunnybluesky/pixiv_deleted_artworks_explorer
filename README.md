@@ -1,3 +1,9 @@
+#使用サービス
++ X(旧Twitter)
++ Microsoft Bing
++ PixivBox
++ Pixiv年鑑
+
 # 動作環境
 PC版のChromium系ブラウザでだいたい動くと思います。Firefoxやスマホだと多分無理です。
 ## 動作確認済みブラウザ(※Windows 11 Homeで検証)
