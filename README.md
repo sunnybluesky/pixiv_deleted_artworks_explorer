@@ -1,4 +1,4 @@
-# 使用サービス
+# 検索に使用するサービス
 + X(旧Twitter)
 + Microsoft Bing
 + PixivBox
