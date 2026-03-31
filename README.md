@@ -1,6 +1,6 @@
 # 動作環境
-PC版のChromium系ブラウザ
-動作確認済みブラウザ(※Windows 11 Homeで検証)
+PC版のChromium系ブラウザでだいたい動くと思います。スマホだと多分無理です。
+## 動作確認済みブラウザ(※Windows 11 Homeで検証)
 + Microsoft Edge 146.0.3856.84 
 + Google Chrome 146.0.7680.165
 + Brave 1.88.136
