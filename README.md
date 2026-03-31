@@ -1,5 +1,5 @@
 # 動作環境
-PC版のChromium系ブラウザでだいたい動くと思います。スマホだと多分無理です。
+PC版のChromium系ブラウザでだいたい動くと思います。Firefoxやスマホだと多分無理です。
 ## 動作確認済みブラウザ(※Windows 11 Homeで検証)
 + Microsoft Edge 146.0.3856.84 
 + Google Chrome 146.0.7680.165
